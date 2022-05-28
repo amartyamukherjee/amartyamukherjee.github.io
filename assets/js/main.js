@@ -118,8 +118,8 @@ themeButton.addEventListener('click', () => {
 })
 
 /*==================== ADD VIDEO ====================*/ 
-const videoLocation = document.querySelector(".projects__shallow_water_waves_video");
+const videoLocation = document.getElementById("projects__shallow_water_waves_video");
 
 fetch("./shallow_water_waves_video.html")
 .then(res => res.text())
-.then(data => videoLocation.innerHTML = data)
+.then(data => videoLocation.innerHTML = data);
