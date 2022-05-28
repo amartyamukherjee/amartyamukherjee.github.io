@@ -116,3 +116,10 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme());
     localStorage.setItem('selected-icon', getCurrentIcon());
 })
+
+/*==================== ADD VIDEO ====================*/ 
+const videoLocation = document.querySelector("projects__shallow_water_waves_video");
+
+fetch("./shallow_water_waves_video.html")
+.then(res => res.text())
+.then(data => videoLocation.innerHTML = data)
