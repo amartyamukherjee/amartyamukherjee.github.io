@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Marty Mukherjee's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Marty Mukherjee"
+description              : &description "PhD Student at the University of Waterloo"
+url                      : https://amartyamukherjee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amartyamukherjee.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -150,6 +150,45 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Marty Mukherjee"
+  avatar           : "profile.png"
+  bio              : "PhD Student at the University of Waterloo, Department of Applied Mathematics"
+  location         : "Waterloo, Ontario, Canada"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.ca/citations?user=OPbpMbYAAAAJ&hl=en&authuser=1"
+  email            :
+  researchgate     :  "https://www.researchgate.net/profile/Amartya-Mukherjee-7"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "amartyamukherjee"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0001-9962-8110"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files

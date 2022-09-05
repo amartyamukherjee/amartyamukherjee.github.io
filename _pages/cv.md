@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BMath in Applied Mathematics with Scientific Computing, Minor in Statistics, University of Waterloo, 2022
+* Ph.D in Applied Mathematics, University of Waterloo, 2027 (expected)
 
 Work experience
 ======
