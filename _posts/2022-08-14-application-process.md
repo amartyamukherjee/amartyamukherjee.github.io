@@ -1,7 +1,7 @@
 ---
 title: 'The PhD Application Process'
-date: 2012-08-14
-permalink: /posts/2022/09/application-process/
+date: 2022-08-14
+permalink: /posts/2022/08/application-process/
 tags:
   - cool posts
   - category1
