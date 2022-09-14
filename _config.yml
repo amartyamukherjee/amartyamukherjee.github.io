@@ -155,13 +155,13 @@ analytics:
 # Site Author
 author:
   name             : "Marty Mukherjee"
-  avatar           : "profile.png"
+  avatar           : "IMG_9657.jpg"
   bio              : "PhD Student at the University of Waterloo, Department of Applied Mathematics"
   location         : "Waterloo, Ontario, Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=OPbpMbYAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : a29mukhe [at] uwaterloo [dot] ca
   researchgate     :  "https://www.researchgate.net/profile/Amartya-Mukherjee-7"
   uri              :
   bitbucket        :
@@ -176,7 +176,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/amartya-marty-mukherjee-142246164/"
   orcid            : "https://orcid.org/0000-0001-9962-8110"
   pinterest        :
   soundcloud       :
