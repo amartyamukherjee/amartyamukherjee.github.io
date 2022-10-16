@@ -3,9 +3,6 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a first-year Ph.D. student at the University of Waterloo, Department of Applied Mathematics under the supervision of Professor [Jun Liu](https://uwaterloo.ca/applied-mathematics/people-profiles/jun-liu). My research focuses on Reinforcement Learning, Control Theory, and Partial Differential Equations.
