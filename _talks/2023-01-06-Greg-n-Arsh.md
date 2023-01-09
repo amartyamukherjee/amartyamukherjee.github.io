@@ -1,7 +1,7 @@
 ---
 title: "Greg n Arsh podcast :)"
 collection: talks
-permalink: /talks/2023-1-6-Greg-n-Arsh
+permalink: /talks/2023-01-06-Greg-n-Arsh
 ---
 
 I have been featured in a podcast with our wonderful Greg Hogg and Arsheya Jain! We had an interesting discussion about my journey into the data science and research world, and my life before that.
