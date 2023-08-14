@@ -2,7 +2,7 @@
 title: "Hawaii / ICML 2023"
 collection: posts
 permalink: /posts/2023-08-01-Hawaii-ICML
-excerpt: 'Pictures from Hawaii.'
+excerpt: 'Pictures from Hawaii'
 date: 2023-08-01
 ---
 
