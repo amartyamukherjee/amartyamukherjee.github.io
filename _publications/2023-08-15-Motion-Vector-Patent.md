@@ -1,0 +1,11 @@
+---
+title: "Methods and Devices for Extracting Motion Vector Data from Compressed Video Data"
+collection: publications
+permalink: /publication/2023-08-15-Motion-Vector-Patent
+excerpt: 'At a video decoder, an encoded video data for a frame of video from an input buffer is obtained. The encoded video data is decoded to obtain decoded image data for a decoded frame, where the decoding includes extracting corresponding motion vector data for the decoded frame. The decoded image data is stored in a temporary storage indexed with a given index, and the corresponding motion vector data is stored in a same or different temporary storage indexed with the given index. An output buffer indexed with the given index is filled with the decoded image data and the corresponding motion vector data stored in the respective temporary storage indexed with the given index.'
+date: 2023-08-15
+venue: 'United States Patent US11729395B2'
+paperurl: 'https://patents.google.com/patent/US11729395B2/'
+citation: 'Sheral Kumar, Amartya Mukherjee, Seel Patel, Rui Xiang Chai, Wentao Liu, Yuanhao Yu, Yang Wang, Jin Tang. &quot;Methods and Devices for Extracting Motion Vector Data from Compressed Video Data.&quot; US Patent 11,729,395 B2, filed November 26, 2021, issued August 15, 2023.'
+---
+Devices and methods for extracting motion vector data during decoding compressed of video data are described. At a video decoder, an encoded video data for a frame of video from an input buffer is obtained. The encoded video data is decoded to obtain decoded image data for a decoded frame, where the decoding includes extracting corresponding motion vector data for the decoded frame. The decoded image data is stored in a temporary storage indexed with a given index, and the corresponding motion vector data is stored in a same or different temporary storage indexed with the given index. An output buffer indexed with the given index is filled with the decoded image data and the corresponding motion vector data stored in the respective temporary storage indexed with the given index.
