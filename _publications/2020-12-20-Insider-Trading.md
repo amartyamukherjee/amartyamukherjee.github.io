@@ -7,4 +7,4 @@ date: 2020-12-20
 venue: 'Course Report'
 paperurl: '/files/Insider_trading_Report.pdf'
 ---
-Trained classification models (Support Vector Machine, K-Nearest Neighbors, Neural Network, Decision Tree) on United States conventional stock or non-derivative transactions datasets from over 2000 constituents. Divided role codes of each trader into four levels of hierarchy as the prediction variable. Achieved a 70.2% test accuracy using Bagged Tree.
+Trained classication models (Support Vector Machine, K-Nearest Neighbors, Neural Network, Decision Tree) on United States conventional stock or non-derivative transactions datasets from over 2000 constituents. Divided role codes of each trader into four levels of hierarchy as the prediction variable. Achieved a 70.2% test accuracy using Bagged Tree.
