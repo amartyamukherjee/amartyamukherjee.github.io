@@ -1,5 +1,5 @@
 ---
-title: "Greg n Arsh podcast :)"
+title: "Greg n Arsh podcast"
 collection: talks
 permalink: /talks/2023-01-06-Greg-n-Arsh
 ---
