@@ -7,7 +7,7 @@ fields and their corresponding Lyapunov functions. Our numerical results demonst
 achieve stabilization over previously unseen systems efficiently and rapidly, showcasing the potential of our approach
 in fast zero-shot control and generalizability.'
 date: 2024-3-26
-venue: 'Preprint'
+venue: 'American Control Conference (ACC 2025)'
 paperurl: 'https://arxiv.org/pdf/2403.17692'
 ---
 This paper presents a novel approach to generating stabilizing controllers for a large class of dynamical systems

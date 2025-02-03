@@ -7,6 +7,10 @@ author_profile: true
 
 The following are the courses I've been a teaching assistant of:
 
+## Winter 2025
+* AMATH 495/900 - Mathematics of Climate Change
+* MATH 237 - Calculus 3 for Honors Mathematics
+
 ## Winter 2024
 * MATH 118 - Calculus 2 for Engineering
 * MATH 104 - Introductory Calculus for Arts and Social Science
