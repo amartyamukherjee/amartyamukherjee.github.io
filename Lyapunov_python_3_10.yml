@@ -33,6 +33,6 @@ dependencies:
     - scipy==1.10.1
     - sumofsquares==1.2.2
     - sympy==1.13.1
-    - torch==2.5.0 --extra-index-url https://download.pytorch.org/whl/cu121
+    - torch --extra-index-url https://download.pytorch.org/whl/cu124
     - typing-extensions==4.12.2
 prefix: 
