@@ -7,6 +7,8 @@ author_profile: true
 
 I am a third-year Ph.D. student at the University of Waterloo, Department of Applied Mathematics under the supervision of Professor [Jun Liu](https://uwaterloo.ca/applied-mathematics/people-profiles/jun-liu). My research interests span Diffusion Models, Control Theory, and Partial Differential Equations.
 
+As of Spring 2025, I am the instructor for MATH 237 ONLN - Calculus 3 for Honors Mathematics.
+
 Previously, I was a Machine Learning Research intern at [RBC Borealis](https://rbcborealis.com/research/), where I worked to advance the application of diffusion models for prediction in irregularly sampled time series under the presence of mixed data types and variable sequence length.
 
 I earned my Bachelor's Degree in Applied Mathematics with Scientific Computing and a Minor in Statistics from the University of Waterloo in 2022.
