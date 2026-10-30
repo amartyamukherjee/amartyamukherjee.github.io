@@ -1,0 +1,14 @@
+{% capture section_markdown %}{% include {{ include.file }} %}{% endcapture %}
+<section class="section panel" id="{{ include.id }}" aria-labelledby="heading-{{ include.id }}">
+  <div class="section-heading">
+    <h2 id="heading-{{ include.id }}">{{ include.title }}</h2>
+    <span class="eyebrow">{{ include.label }}</span>
+  </div>
+  {% if include.id == 'about' %}
+    {{ section_markdown | markdownify }}
+  {% else %}
+    <div class="section-scroll" tabindex="0" role="region" aria-label="{{ include.title | escape }} entries">
+      {{ section_markdown | markdownify }}
+    </div>
+  {% endif %}
+</section>

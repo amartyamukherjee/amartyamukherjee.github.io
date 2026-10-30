@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description | escape }}">
+  <title>{{ page.title | escape }} | Applied Mathematics &amp; Machine Learning</title>
+  <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+  <script src="{{ '/assets/js/portfolio.js' | relative_url }}" defer></script>
+</head>
+<body id="top">
+  {% include portfolio/header.html %}
+  <div class="layout">
+    {% include portfolio/profile.html %}
+    <main class="main" id="main">
+      {{ content }}
+      <footer>Marty Mukherjee · University of Waterloo
+        <a class="backtop" href="#top">Back to top ↑</a>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
