@@ -7,11 +7,11 @@
     <span>{{ paper.date | date: '%Y' }}</span>
   </div>
   <h3><a href="{{ paper_link }}">{{ paper.title }}</a></h3>
+  <p>{{ paper.author }}</p>
   <div class="entry-footer">
     <details>
-      <summary>Abstract &amp; citation</summary>
+      <summary>Abstract</summary>
       {{ paper.content | markdownify }}
-      {% if paper.citation %}<p>{{ paper.citation | strip_html }}</p>{% endif %}
     </details>
   </div>
   <div class="links">

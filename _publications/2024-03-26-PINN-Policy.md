@@ -1,10 +1,11 @@
 ---
 title: "Physics-Informed Neural Network Policy Iteration: Algorithms, Convergence, and Verification"
+author: "Yiming Meng, Ruikun Zhou, Amartya Mukherjee, Maxwell Fitzsimmons, Christopher Song, Jun Liu"
 collection: publications
 permalink: /publication/2024-03-26-PINN-Policy
 excerpt: 'We approach the problem of optimal control for nonlinear systems by employing extreme learning machines (ELM) and physics-informed neural networks (PINN) to construct successive approximations to the Generalized Hamilton-Jacobi-Bellman (GHJB) equation. We show that these approximations converge uniformly to the viscosity solution of the Hamilton-Jacobi-Bellman (HJB) equation. Our proposed algorithms, ELM policy iteration (ELM-PI) and PINN policy iteration (PINN-PI) are trained to minimize the loss function given by the GHJB equation for three different control problems and outperform existing reinforcement learning and optimal control algorithms in the literature.'
 date: 2024-2-15
-venue: 'International Conference on Machine Learning (ICML)'
+venue: 'International Conference on Machine Learning (ICML 2024)'
 paperurl: 'https://proceedings.mlr.press/v235/meng24b.html'
 citation: 'Meng, Y., Zhou, R., Mukherjee, A., Fitzsimmons, M., Song, C., Liu, J. (2024). &quot;Physics-Informed Neural Network Policy Iteration: Algorithms, Convergence, and Verification.&quot; <i>International Conference on Machine Learning</i>'
 ---

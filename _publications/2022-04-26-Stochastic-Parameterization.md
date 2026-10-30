@@ -1,5 +1,6 @@
 ---
 title: "Stochastic Parameterization Using Compressed Sensing: Application to the Lorenz-96 Atmospheric Model"
+author: "Amartya Mukherjee, Yusuf Aydogdu, Thambirajah Ravichandran, Navaratnam Sri Namachchivaya"
 collection: publications
 permalink: /publication/2022-04-26-Stochastic-Parameterization
 excerpt: 'This paper deals with the parameterization of the Lorenz-96 model with two time-scale simplified ordinary differential equations describing advection, damping and forcing. We apply compressed sensing to parameterize the unresolved variables in terms of resolved variables.'

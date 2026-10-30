@@ -1,5 +1,6 @@
 ---
 title: "Manifold-Guided Stabilization of Nonlinear Dynamical Systems with Diffusion Models"
+author: "Amartya Mukherjee, Thanin Quartz, Jun Liu"
 collection: publications
 permalink: /publication/2025-07-08-Manifold-Stabilizing
 excerpt: 'We train a diffusion model on a dataset of asymptotically stable vector fields and employ Tweedie’s estimate to iteratively adjust control parameters, ensuring convergence to a stabilizing controller.'

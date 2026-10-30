@@ -1,5 +1,6 @@
 ---
 title: "Harmonic Control Lyapunov Barrier Functions for Constrained Optimal Control with Reach-Avoid Specifications"
+author: "Amartya Mukherjee, Ruikun Zhou, Haocheng Chang, Jun Liu"
 collection: publications
 permalink: /publication/2023-10-13-Harmonic-CLBF
 excerpt: 'This paper introduces harmonic control Lyapunov barrier functions (harmonic CLBF) that aid in constrained control problems such as reach-avoid problems. Harmonic CLBFs exploit the maximum principle that harmonic functions satisfy to encode the properties of control Lyapunov barrier functions (CLBFs). As a result, they can be initiated at the start of an experiment rather than trained based on sample trajectories.'

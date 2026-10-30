@@ -1,5 +1,6 @@
 ---
 title: "Actor-Critic Methods using Physics-Informed Neural Networks: Control of a 1D PDE Model for Fluid-Cooled Battery Packs"
+author: "Amartya Mukherjee and Jun Liu"
 collection: publications
 permalink: /publication/2023-05-18-Pack-Cooling
 excerpt: 'This paper proposes an actor-critic algorithm for controlling the temperature of a battery pack using a cooling fluid. This is modeled by a coupled 1D partial differential equation (PDE) with a controlled advection term that determines the speed of the cooling fluid. We propose an algorithm that treats the value network as a Physics-Informed Neural Network (PINN) to solve for the continuous-time HJB equation rather than a discrete-time Bellman optimality equation, and we derive an optimal controller for the environment that we exploit to achieve optimal control.'

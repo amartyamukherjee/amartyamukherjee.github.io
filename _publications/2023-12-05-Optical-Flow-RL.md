@@ -1,5 +1,6 @@
 ---
 title: "Enhancing Reinforcement Learning in Vision-Based Environments with Optical Flow"
+author: "Amartya Mukherjee and Jun Liu"
 collection: publications
 permalink: /publication/2023-12-05-Optical-Flow-RL
 excerpt: 'While convolutional neural networks have been effective in extracting meaningful features from frames, the representation of motion in reinforcement learning tasks remains a challenge. We propose an approach to improve the performance of RL models in Atari environments by concatenating OF with raw image frames as input.'

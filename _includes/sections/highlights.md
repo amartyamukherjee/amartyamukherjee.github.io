@@ -4,16 +4,25 @@
 <time>May 2026</time>
 <div markdown="1">
 
-**ADiff4TPP** — asynchronous diffusion for temporal point processes, published in [Transactions on Machine Learning Research](https://openreview.net/forum?id=bwnZW4wXh4).
+**ADiff4TPP: Asynchronous Diffusion Models for Temporal Point Processes**, published in [Transactions on Machine Learning Research (TMLR)](https://openreview.net/forum?id=bwnZW4wXh4).
 
 </div>
 </article>
 
 <article class="news" markdown="1">
-<time>2026</time>
+<time>Apr 2026</time>
 <div markdown="1">
 
-Awarded the **Waterloo.AI Physical AI Graduate Scholarship** for work on rigorous error certification in robotics. [Read more ↗](https://uwaterloo.ca/applied-mathematics/news/marty-mukherjee-awarded-waterlooai-physical-ai-graduate)
+Awarded the **Waterloo.AI Physical AI Graduate Scholarship** supported by the [Philantra Foundation](https://www.nbc.ca/wealth-management/trust/for-individuals/philantra-foundation.html) to advance the deployment of neural networks with rigorous error certification in robotics. [Read more ↗](https://uwaterloo.ca/applied-mathematics/news/marty-mukherjee-awarded-waterlooai-physical-ai-graduate)
+
+</div>
+</article>
+
+<article class="news" markdown="1">
+<time>Feb 2026</time>
+<div markdown="1">
+
+Returning to [RBC Borealis](https://rbcborealis.com/research/) as a part-time intern, supported by the [Mitacs Accelerate program](https://www.mitacs.ca/our-programs/accelerate/) to work on outlier generation in diffusion models.
 
 </div>
 </article>
@@ -23,6 +32,15 @@ Awarded the **Waterloo.AI Physical AI Graduate Scholarship** for work on rigorou
 <div markdown="1">
 
 **Manifold-Guided Stabilization** with diffusion models at the American Control Conference. [Paper ↗](https://ieeexplore.ieee.org/abstract/document/11107555)
+
+</div>
+</article>
+
+<article class="news" markdown="1">
+<time>Sep 2024</time>
+<div markdown="1">
+
+Joining [RBC Borealis](https://rbcborealis.com/research/) as an intern, working on diffusion models for temporal point process forecasting
 
 </div>
 </article>

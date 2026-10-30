@@ -1,5 +1,6 @@
 ---
 title: "Methods and Devices for Extracting Motion Vector Data from Compressed Video Data"
+author: "Sheral Sweta KUMAR, Amartya MUKHERJEE, Seel Nimeshkumar PATEL, Rui XIANG CHAI, Wentao Liu, Yuanhao Yu, Yang Wang, Jin Tang"
 collection: publications
 permalink: /publication/2023-08-15-Motion-Vector-Patent
 excerpt: 'At a video decoder, an encoded video data for a frame of video from an input buffer is obtained. The encoded video data is decoded to obtain decoded image data for a decoded frame, where the decoding includes extracting corresponding motion vector data for the decoded frame. The decoded image data is stored in a temporary storage indexed with a given index, and the corresponding motion vector data is stored in a same or different temporary storage indexed with the given index. An output buffer indexed with the given index is filled with the decoded image data and the corresponding motion vector data stored in the respective temporary storage indexed with the given index.'
