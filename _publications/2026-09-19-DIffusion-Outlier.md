@@ -2,8 +2,8 @@
 title: "Score-based Outlier Generation via Controlling the Radon-Nikodym Derivative"
 author: "Amartya Mukherjee, Tristan Milne, Kry Yik-Chau Lui, Stephanie Hazlewood, Jun Liu"
 collection: publications
-permalink: /publication/2026-09-20-DM-Outlier
-date: 2026-09-20
+permalink: /publication/2026-09-19-DM-Outlier
+date: 2026-09-19
 venue: 'IEEE Conference on Decision and Control (IEEE CDC 2026)'
 paperurl: 'https://arxiv.org/pdf/2609.12113'
 ---

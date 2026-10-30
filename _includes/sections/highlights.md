@@ -1,6 +1,15 @@
 <div class="news-list" markdown="1">
 
 <article class="news" markdown="1">
+<time>July 2026</time>
+<div markdown="1">
+
+**3 papers accepted to IEEE CDC 2026:** *Score-based Outlier Generation via Controlling the Radon-Nikodym Derivative*, *Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise*, *Learning Lyapunov Operators for Nonlinear Systems*. See you in Hawaii!
+
+</div>
+</article>
+
+<article class="news" markdown="1">
 <time>May 2026</time>
 <div markdown="1">
 
@@ -31,7 +40,7 @@ Returning to [RBC Borealis](https://rbcborealis.com/research/) as a part-time in
 <time>Jul 2025</time>
 <div markdown="1">
 
-**Manifold-Guided Stabilization** with diffusion models at the American Control Conference. [Paper ↗](https://ieeexplore.ieee.org/abstract/document/11107555)
+Presenting **Manifold-Guided Stabilization with Diffusion Models** at the American Control Conference. [Paper ↗](https://ieeexplore.ieee.org/abstract/document/11107555)
 
 </div>
 </article>
@@ -40,7 +49,7 @@ Returning to [RBC Borealis](https://rbcborealis.com/research/) as a part-time in
 <time>Sep 2024</time>
 <div markdown="1">
 
-Joining [RBC Borealis](https://rbcborealis.com/research/) as an intern, working on diffusion models for temporal point process forecasting
+**Joining [RBC Borealis](https://rbcborealis.com/research/)** as an intern, working on diffusion models for temporal point process forecasting
 
 </div>
 </article>

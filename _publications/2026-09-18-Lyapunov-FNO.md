@@ -2,8 +2,8 @@
 title: "Learning Lyapunov Operators for Nonlinear Systems"
 author: "Amartya Mukherjee, Maxwell Fitzsimmons, David C Fernández, Jun Liu"
 collection: publications
-permalink: /publication/2026-09-20-Lyapunov-FNO
-date: 2026-09-20
+permalink: /publication/2026-09-18-Lyapunov-FNO
+date: 2026-09-18
 venue: 'IEEE Conference on Decision and Control (IEEE CDC 2026)'
 paperurl: 'https://arxiv.org/pdf/2609.18894'
 ---
