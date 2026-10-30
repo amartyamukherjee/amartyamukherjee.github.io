@@ -1,6 +1,6 @@
 ---
 title: "Learning Lyapunov Operators for Nonlinear Systems"
-author: "Amartya Mukherjee, Maxwell Fitzsimmons, David C Fernández, Jun Liu"
+author: "Amartya Mukherjee, Maxwell Fitzsimmons, David C. Del Rey Fernández, Jun Liu"
 collection: publications
 permalink: /publication/2026-09-18-Lyapunov-FNO
 date: 2026-09-18
