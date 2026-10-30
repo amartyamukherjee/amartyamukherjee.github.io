@@ -1,7 +1,7 @@
 <article class="entry" markdown="1">
-<div class="entry-meta"><span class="badge">Instructor</span><span>Spring 2025</span></div>
+<div class="entry-meta"><span class="badge">Instructor and Course Coordinator</span><span>Spring 2025</span></div>
 
-### MATH 237 ONLN
+### MATH 237 Online
 
 Calculus 3 for Honors Mathematics · University of Waterloo
 
@@ -10,6 +10,23 @@ Calculus 3 for Honors Mathematics · University of Waterloo
 ### Teaching assistantships
 
 <div class="teaching-grid" markdown="1">
+
+<article class="entry" markdown="1">
+
+### Winter 2025
+
+* AMATH 449/649 / CS 479/679 - Neural Networks
+* MATH 117 - Calculus 1 for Engineering
+
+</article>
+
+<article class="entry" markdown="1">
+
+### Winter 2026
+
+* AMATH 495/900 - Mathematics of Deep Learning
+
+</article>
 
 <article class="entry" markdown="1">
 
